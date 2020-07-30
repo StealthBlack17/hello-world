@@ -1,2 +1,3 @@
-# hello-world
-Hello world repository just to practice using Github 
+Hello
+
+This is a hello world readme file

@@ -1,2 +1,2 @@
 # hello-world
-Hello word repository just to practice using Github 
+Hello world repository just to practice using Github 
